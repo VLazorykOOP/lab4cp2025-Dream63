@@ -1,0 +1,7 @@
+﻿  PharmacyManagement.cpp
+  PharmacyPosting.cpp
+C:\Users\Адмін\source\repos\PracticeLab4\PracticeLab4\PharmacyPosting.cpp(46,14): warning C5307: 'System::String ^System::String::TrimEnd(...array<wchar_t> ^)': argument (1) converted from 'char' to 'wchar_t'. Missing 'L' encoding-prefix for character literal?
+C:\Users\Адмін\source\repos\PracticeLab4\PracticeLab4\PharmacyPosting.cpp(46,14): warning C5307: 'System::String ^System::String::TrimEnd(...array<wchar_t> ^)': argument (2) converted from 'char' to 'wchar_t'. Missing 'L' encoding-prefix for character literal?
+  Generating Code...
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PracticeLab4.vcxproj -> C:\Users\Адмін\source\repos\PracticeLab4\x64\Debug\PracticeLab4.exe

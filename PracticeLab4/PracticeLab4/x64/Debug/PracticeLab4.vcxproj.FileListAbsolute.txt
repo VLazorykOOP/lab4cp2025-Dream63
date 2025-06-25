@@ -1,0 +1,5 @@
+C:\Users\Адмін\source\repos\PracticeLab4\PracticeLab4\x64\Debug\PracticeLab4.vcxproj.AssemblyReference.cache
+C:\Users\Адмін\source\repos\PracticeLab4\PracticeLab4\x64\Debug\PracticeLab4.PharmacyFetching.resources
+C:\Users\Адмін\source\repos\PracticeLab4\PracticeLab4\x64\Debug\PracticeLab4.PharmacyManagement.resources
+C:\Users\Адмін\source\repos\PracticeLab4\PracticeLab4\x64\Debug\PracticeLab4.PharmacyPosting.resources
+C:\Users\Адмін\source\repos\PracticeLab4\PracticeLab4\x64\Debug\PracticeLab4.vcxproj.GenerateResource.cache
